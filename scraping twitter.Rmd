@@ -16,10 +16,10 @@ library(twitteR)
 library(rtweet)
 
 # Ganti Sesuai dengan Key Milik Kita
-consumer_key <- "bwGStMpr8cQgwnC35DcoAmc67"
-consumer_secret <- "s2MKPJv7Jt2VcRoEpNduxJ11FgRD0c1HAREd5lzzhWFNC4zbKf"
-access_token    <- "997398565876977664-L2FUv7hKT7jcI71OL09BUkt8S62373W"
-access_secret   <- "P0FKHQvoP3x5u8TsU14mFSHHHJyrSrfpjbxSS9Sa1asMh"
+consumer_key <- ""
+consumer_secret <- ""
+access_token    <- ""
+access_secret   <- ""
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 ```
 
